@@ -1,0 +1,14 @@
+C:\Users\agranero\source\repos\ApiGames\ApiGames\bin\Debug\netcoreapp2.1\ApiGames.deps.json
+C:\Users\agranero\source\repos\ApiGames\ApiGames\bin\Debug\netcoreapp2.1\ApiGames.runtimeconfig.json
+C:\Users\agranero\source\repos\ApiGames\ApiGames\bin\Debug\netcoreapp2.1\ApiGames.runtimeconfig.dev.json
+C:\Users\agranero\source\repos\ApiGames\ApiGames\bin\Debug\netcoreapp2.1\ApiGames.dll
+C:\Users\agranero\source\repos\ApiGames\ApiGames\obj\Debug\netcoreapp2.1\ApiGames.csprojAssemblyReference.cache
+C:\Users\agranero\source\repos\ApiGames\ApiGames\obj\Debug\netcoreapp2.1\ApiGames.csproj.CoreCompileInputs.cache
+C:\Users\agranero\source\repos\ApiGames\ApiGames\obj\Debug\netcoreapp2.1\ApiGames.RazorAssemblyInfo.cache
+C:\Users\agranero\source\repos\ApiGames\ApiGames\obj\Debug\netcoreapp2.1\ApiGames.RazorAssemblyInfo.cs
+C:\Users\agranero\source\repos\ApiGames\ApiGames\obj\Debug\netcoreapp2.1\ApiGames.AssemblyInfoInputs.cache
+C:\Users\agranero\source\repos\ApiGames\ApiGames\obj\Debug\netcoreapp2.1\ApiGames.AssemblyInfo.cs
+C:\Users\agranero\source\repos\ApiGames\ApiGames\obj\Debug\netcoreapp2.1\ApiGames.RazorTargetAssemblyInfo.cache
+C:\Users\agranero\source\repos\ApiGames\ApiGames\bin\Debug\netcoreapp2.1\ApiGames.pdb
+C:\Users\agranero\source\repos\ApiGames\ApiGames\obj\Debug\netcoreapp2.1\ApiGames.dll
+C:\Users\agranero\source\repos\ApiGames\ApiGames\obj\Debug\netcoreapp2.1\ApiGames.pdb
